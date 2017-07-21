@@ -1,4 +1,4 @@
-package com.my.phonekok;
+package com.cocwong;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
